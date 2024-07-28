@@ -1,9 +1,14 @@
 # algorithmic-problem-solving
 yea leetcode
 
+# start here
+
+https://leetcode.com/studyplan/leetcode-75/
+
+
+# docs
 
 https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide
-
 
 https://en.wikipedia.org/wiki/Pointer_(computer_programming)
 
