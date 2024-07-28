@@ -5,6 +5,9 @@ yea leetcode
 
 https://leetcode.com/studyplan/leetcode-75/
 
+grind vs blind
+
+https://www.techinterviewhandbook.org/grind75/about
 
 # docs
 
